@@ -6,9 +6,8 @@
 
 <table width='100%' align="center">
     <tr>
-        <td align='left' width='100%' colspan='2'>
-            <strong>The footer will always stay at the bottom</strong><br />
-            because it does not matter how much content you have on the page.
+        <td align='center' width='100%' colspan='2'>
+            The <strong>footer</strong> will always stay at the bottom because it does not matter how much content you have on the page.
         </td>
     </tr>
 </table>
